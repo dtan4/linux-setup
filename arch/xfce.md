@@ -1,8 +1,8 @@
 # Xfce4
 ## テーマ
 * Xfce-dusk
-* elementary Xfce
-    * `yaourt -S elementary-xfce-icons`
+* awoken
+    * `yaourt -S awoken-icons`
 
 ## Caps as Ctrl
 * セッションと起動 -> 自動開始アプリケーション
