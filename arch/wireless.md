@@ -12,6 +12,5 @@ export GNOME_KEYRING_CONTROL GNOME_KEYRING_PID GPG_AGENT_INFO SSH_AUTH_SOCK
 ```
 
 
-## (obsoluted) wicd & dhclient
-* dhcpcd だと IP アドレス取得に失敗した
+## wicd & dhclient (2014-02-26 より使用中)
 * wicd の設定画面で dhclient を明示的に指定する
