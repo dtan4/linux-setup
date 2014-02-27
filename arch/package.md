@@ -10,6 +10,7 @@
 * urxvt-perls
 * wget
 * tig
+* evince
 
 # symbolic link
 * `sudo ln -s /usr/share/git/diff-highlight/diff-highlight /usr/local/bin`
