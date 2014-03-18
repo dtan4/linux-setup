@@ -11,6 +11,8 @@
 * wget
 * tig
 * evince
+* ristretto
+    * image viewer
 
 # symbolic link
 * `sudo ln -s /usr/share/git/diff-highlight/diff-highlight /usr/local/bin`
